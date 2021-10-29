@@ -1,7 +1,7 @@
 # What This bot is about
 Advertisement is a OS ( open-source) repo which contains code on making a advertisement system 
 
-#How to set it up
+# How to set it up
 mostly likely you are going to use repl.it or autocode.
 for autocode just click this button
 [<img  data-src="https://deploy.stdlib.com/static/images/deploy.svg" width="192">](https://deploy.stdlib.com/)
